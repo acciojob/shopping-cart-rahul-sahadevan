@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+#table{
+  margin: 10px;
+ border-collapse: collapse;
+}
